@@ -1,7 +1,7 @@
 # FIFA 2023 ⚽ 👾 
 
 # Overview 🎮 
-This project is part of the deliverables for Ironhack's Data Analytics course. The primary objectives are to consolidate Python and data visualization skills, perform hypothesis testing, and optionally explore machine learning techniques.
+This project is part of the deliverables for Ironhack's Data Analytics Bootcamp. The primary objectives are to consolidate Python and data visualization skills, perform hypothesis testing, and optionally explore machine learning techniques.
 
 **FIFA 2023** is a football simulation video game developed by EA Sports, renowned for its unparalleled statistical realism. Designed as a sophisticated simulation of real-world football, FIFA 2023 leverages statistics rooted in actual player performances, team dynamics, and league data, making it one of the most authentic representations of the sport.
 
