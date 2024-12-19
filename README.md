@@ -1,4 +1,4 @@
-# FIFA 2023 Player Statistics ⚽ 👾 
+# FIFA 2023 ⚽ 👾 
 
 # Overview 🎮 
 This project is part of the deliverables for Ironhack's Data Analytics course. The primary objectives are to consolidate Python and data visualization skills, perform hypothesis testing, and optionally explore machine learning techniques.
